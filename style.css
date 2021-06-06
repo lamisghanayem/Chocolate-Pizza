@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@100;800&family=Oswald:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+#slogan{
+    font-family: 'Pacifico', cursive;
+    font-size: 35px;
+    font-style: italic;
+}
+#slogan2{
+    font-family: 'Barlow Condensed', sans-serif;
+    color: slategrey;
+}
+#headerLogo{
+    height: 50px;
+    width: 40px;
+   position: absolute;
+   top: 20px;
+}
+#headerSlogan{
+    position: absolute;
+    top: 20px;
+    left: 300px;
+    height: 50px;
+}
+
+
+nav { 
+    position: absolute;
+    top: 40px;
+    right: 250px;
+}
+ul{ 
+    list-style: none; 
+    }
+
+ul li{
+    display: inline-block;
+    text-decoration: none;
+  
+}
+.icon7{margin-left: 10px;}
+
+main {margin-top: 120px;
+ 
+}
+
+h1{  font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    margin-bottom: 7px;
+}
+
+#logoPost{
+    font-family: 'Barlow Condensed', sans-serif;
+    margin-bottom: 20px;
+}
+#print{
+    font-family: 'Barlow Condensed', sans-serif; 
+    display: inline-block;
+    position: absolute;
+    top: 260px;
+    right: 250px;
+}
+#cake{width: 100%;}
+
+body{margin-left: 250px;
+margin-right: 250px;}
+
+#paragraphs{
+    color: slategrey;
+    font-size: x-large;
+    text-indent: 32px;
+}
+#recipe{
+    font-family:'Patrick Hand', cursive;
+    color:rgb(105,105,105);
+    background-image: url("https://raw.githubusercontent.com/LTUC/amman-201d27/main/class-10/lab-a/lab-assets/list-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    height: 340px;
+    font-size: 25px;
+}
+
+#list{
+    column-count: 2;
+    column-gap: 5px;
+  
+   }
+
+#firstColumn{
+margin-top: 50px;
+margin-left: 60px;
+   }
+   
+#secondColumn{
+padding-top: 80px;
+
+}
+
+.ingredient{
+    margin-bottom: 17px;
+}
+
+#line{
+    text-decoration-line: line-through;
+}
+
+#vanissa{
+    font-size: 20px;
+    color:rgb(70, 70, 70);
+    font-weight: bold;
+}
+
+#vanissaBio{
+    color:rgb(105,105,105);
+    font-size: 18px;
+
+}
+
+
+
+
+
+#btn{
+    background-color: #ce6053 ; 
+    color: whitesmoke;
+    padding: 15px 30px 15px 30px;
+    border: none;
+    font-size: 15px;
+    float: right;
+  position: relative;
+  bottom: 120px;
+
+   
+}
+
+#person{
+    position: relative;
+    bottom: 60px;
+    left: 90px;
+}
+footer{
+  color:slategrey ;
+text-align: center;
+   height: 150px;
+   border-top: 1px solid grey ;
+  
+}
+
+#footerLogo{
+   position: relative;
+   bottom: 15px;
+}
+#footerP2{
+    position: relative;
+   right: 80px;
+}
+#linexxx{
+    background-image: url('https://raw.githubusercontent.com/LTUC/amman-201d27/main/class-10/lab-a/lab-assets/hr-img.png');
+    width: 100%;
+    height: 20px;  
+    margin-top: 100px; 
+    
+}
+#line2{
+    background-image: url('https://raw.githubusercontent.com/LTUC/amman-201d27/main/class-10/lab-a/lab-assets/hr-img.png');
+    width: 100%;
+    height: 20px;
+    margin-top: 40px;
+}
